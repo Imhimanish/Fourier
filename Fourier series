@@ -1,0 +1,5 @@
+Numerical analysis for finding Fourier series for any function :-
+In this program we calculate and plot the Fourier series of any given function.
+The Dirichlet conditions:
+1) The function has a finite number of finite discontinuities in each period.
+2) The function has a finite number of maxima and minima in each period.
